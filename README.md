@@ -1,4 +1,4 @@
 # Mel_Mkrtchyan
 Just a new repository 
-Programmer: How Can I Make It?
-Tester: How Can I Break It?
+
+Testing Definition:To tell somebody that he is wrong is called criticism. To do so officially is called testing.
